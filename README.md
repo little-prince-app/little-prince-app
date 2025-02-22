@@ -2,6 +2,9 @@
 # Little Prince 👋
 Little Prince is an application that stores your favorite adult movies in a database and syncs them with your storage.
 
+![Movie View](files/image_jav_landing_page.png)
+_Little Prince home_
+
 ## Requirements
 Little Prince is a desktop application that supports both Windows and MacOS (coming soon). You can check the [latest version here](https://github.com/little-prince-app/little-prince-app/releases).
 
@@ -20,9 +23,6 @@ Little Prince is a desktop application that supports both Windows and MacOS (com
 * Group movie data by maker.
 * Group movie data by code prefix and details about file size.
 * And more...
-
-![Movie View](files/image_jav_landing_page.png)
-_Little Prince home_
 
 ## Little Prince Overview
 
