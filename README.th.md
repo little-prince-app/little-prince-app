@@ -185,3 +185,6 @@ _Little Prince downloading movie cover_
 
 ![alt text](files/image_jav_download_movie_metadata_page.png)
 
+## สนับสนุนเรา
+
+[Buy Me a Cofee](https://buymeacoffee.com/little.prince)
