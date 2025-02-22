@@ -187,4 +187,4 @@ _Little Prince downloading movie cover_
 
 ## สนับสนุนเรา
 
-[Buy Me a Cofee](https://buymeacoffee.com/little.prince)
+[Buy Me a Coffee](https://buymeacoffee.com/little.prince)
