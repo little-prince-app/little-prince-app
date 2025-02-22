@@ -61,3 +61,113 @@ _Little Prince actress viewer_
 
 ![Movie View](files/image_jav_actress_detail_view.png)
 _Little Prince actress detail_
+
+
+## โครงสร้างโฟลเดอร์
+
+ข้อมูลเกี่ยวกับโครงสร้างการจัดเก็บไฟล์ จำเป้นต้องระบุที่อยู่ของโฟลเดอร์ คุณสามารถทำได้ในเมนู Database ตัวอย่างเช่น N:\LITTLE_PRINCE
+
+ข้อมูลในโฟลเดอร์จะประกอบไปด้วยไฟล์ต่างๆ
+ตัวอย่างสำหรับ GVG-343
+
+```
+LITTLE_PRINCE
+    │
+    └─JAV
+        ├─movies
+        │    └─GVG
+        │        │  
+        │        ├─GVG-343
+        │        │    │  GVG-343.jpg
+        │             │  GVG-343.mp4
+        │             │  feature.jpg
+        │             │  meta.json
+        │             ├─ screenshots 
+        │                       └─  ...
+        │
+        │
+        └─actresses
+            ├─EIMI_FUKADA
+            │   │  main.jpg
+            │   
+            ├─SUZU_HONJO
+            │   │  main.jpg
+```
+
+## ข้อมูลภาพยนตร์ JAV
+
+ข้อมูลของภาพยนตร์จะถูกเก็บไว้ในไฟล์ชื่อ meta.json ซึ่งจะเก็บไว้ในโฟลเดอสำหรับรหัสภาพยนตร์แต่ละเรื่อง
+
+ตัวอย่างข้อมูลภายในไฟล์ meta.json
+N:\LITTLE_PRINCE\JAV\movies\GVG\GVG-343\meta.json
+
+```
+{
+    "code": "GVG-343",
+    "content_id": "gvg00343",
+    "release_date": "2016-08-03",
+    "duration_minute": null,
+    "director": "Sean Saito",
+    "maker": "Glory Quest",
+    "series": null,
+    "genres": [
+        "BIG TITS",
+        "OUTDOOR",
+        "THREESOME / FOURSOME"
+    ],
+    "rating": 3,
+    "movie_title": "Big-Titted Masochistic Women Dumped Naked In Woods",
+    "movie_title_custom": "Bondage 4 Big-Titted",
+    "story": null,
+    "note": null,
+    "count_actress": 4,
+    "actresses": [
+        "MIKAN KURURUGI",
+        "MINAMI AYASE",
+        "MION HAZUKI",
+        "SERINA FUKAMI"
+    ],
+    "scenes": [],
+    "has_subtitle_file": false,
+    "has_climax_gif": false,
+    "has_preview": false
+}
+```
+
+## ข้อมูลนักแสดง
+
+ข้อมูลของนักแสดงจะถูกเก็บไว้ในไฟล์ชื่อ meta.json ซึ่งจะถูกเก็บไว้ในโฟลเดอร์แยกกันสำหรับชื่อนักแสดงแต่ละคน
+
+ตัวอย่างข้อมูลภายในไฟล์ meta.json
+N:\LITTLE_PRINCE\JAV\actresses\EIMI_FUKADA\meta.json
+
+```
+{
+    "name": "EIMI FUKADA",
+    "name_other": null,
+    "birth_day": "1998-03-18T00:00:00.000",
+    "debut_date": "2018-11-03T00:00:00.000",
+    "cup": "H",
+    "height": 159,
+    "rating": 3
+}
+```
+
+## เครื่องมือ
+
+แอปมีเครื่องมือที่ช่วยให้คุณนำเข้าและดาวน์โหลดข้อมูลได้อย่างรวดเร็ว
+* นำเข้าภาพยนตร์ด้วย code
+* ดาวน์โหลดปกภาพยนตร์
+* ดาวน์โหลดข้อมูลของภาพยนตร์
+* นำเข้านักแสดงพร้อมชื่อ
+* ดาวน์โหลดรูปภาพนักแสดง
+* ดาวน์โหลดข้อมูลของนักแสดง
+
+![jav tool](files/image_jav_tool.png)
+_Little Prince jav tools_
+
+
+
+
+
+

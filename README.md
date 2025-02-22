@@ -59,3 +59,128 @@ When you click on the actress's picture, it will show you the details page and r
 
 ![Movie View](files/image_jav_actress_detail_view.png)
 _Little Prince actress detail_
+
+## Folder Structures
+
+Information about the structure of the file storage. You need to specify the path of the folder first. You can do this in the Database menu. For example, N:\LITTLE_PRINCE
+
+It will contain the following structure folders.
+Example for GVG-343
+
+```
+LITTLE_PRINCE
+    │
+    └─JAV
+        ├─movies
+        │    └─GVG
+        │        │  
+        │        ├─GVG-343
+        │        │    │  GVG-343.jpg
+        │             │  GVG-343.mp4
+        │             │  feature.jpg
+        │             │  meta.json
+        │             ├─ screenshots 
+        │                       └─  ...
+        │
+        │
+        └─actresses
+            ├─EIMI_FUKADA
+            │   │  main.jpg
+            │   
+            ├─SUZU_HONJO
+            │   │  main.jpg
+```
+
+## Metadata of Movie
+
+The data for movies will be stored in a file called meta.json, which will be stored in a separate folder for each movie code.
+
+Example of data inside the meta.json file.
+N:\LITTLE_PRINCE\JAV\movies\GVG\GVG-343\meta.json
+
+```
+{
+    "code": "GVG-343",
+    "content_id": "gvg00343",
+    "release_date": "2016-08-03",
+    "duration_minute": null,
+    "director": "Sean Saito",
+    "maker": "Glory Quest",
+    "series": null,
+    "genres": [
+        "BIG TITS",
+        "OUTDOOR",
+        "THREESOME / FOURSOME"
+    ],
+    "rating": 3,
+    "movie_title": "Big-Titted Masochistic Women Dumped Naked In Woods",
+    "movie_title_custom": "Bondage 4 Big-Titted",
+    "story": null,
+    "note": null,
+    "count_actress": 4,
+    "actresses": [
+        "MIKAN KURURUGI",
+        "MINAMI AYASE",
+        "MION HAZUKI",
+        "SERINA FUKAMI"
+    ],
+    "scenes": [],
+    "has_subtitle_file": false,
+    "has_climax_gif": false,
+    "has_preview": false
+}
+```
+
+## Metadata of Actress
+
+The data for actress will be stored in a file called meta.json, which will be stored in a separate folder for each actress name.
+
+Example of data EIMI_FUKKADA inside the meta.json file.
+N:\LITTLE_PRINCE\JAV\actresses\EIMI_FUKADA\meta.json
+
+```
+{
+    "name": "EIMI FUKADA",
+    "name_other": null,
+    "birth_day": "1998-03-18T00:00:00.000",
+    "debut_date": "2018-11-03T00:00:00.000",
+    "cup": "H",
+    "height": 159,
+    "rating": 3
+}
+```
+
+## Tools
+
+The app has tools to help you import and download data quickly.
+* Import movies with code.
+* Download movie cover.
+* Download movie metadata.
+* Import actress with name.
+* Download actress image.
+* Download actress metadata.
+
+![jav tool](files/image_jav_tool.png)
+_Little Prince jav tools_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
