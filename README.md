@@ -21,6 +21,9 @@ Little Prince is a desktop application that supports both Windows and MacOS (com
 * Group movie data by code prefix and details about file size.
 * And more...
 
+![Movie View](files/image_jav_landing_page.png)
+_Little Prince home_
+
 ## Little Prince Overview
 
 Little Prince App helps you organize your movie database, giving you easy access to search and filter by title, genre, actress and more. You can also sort by title, movie code, cast, release date and your own rating.
