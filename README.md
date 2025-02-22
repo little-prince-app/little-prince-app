@@ -166,7 +166,10 @@ The app has tools to help you import and download data quickly.
 ![jav tool](files/image_jav_tool.png)
 _Little Prince jav tools_
 
+Example of adding multiple movie codes at once.
 
+![Importing movie](files/image_jav_importing_movie_page.png)
+_Little Prince adding movie_
 
 
 

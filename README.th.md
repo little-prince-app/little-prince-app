@@ -170,7 +170,7 @@ N:\LITTLE_PRINCE\JAV\actresses\EIMI_FUKADA\meta.json
 _Little Prince jav tools_
 
 
+ตัวอย่างการเพิ่มรหัสหนังได้หลายเรื่องในคราวเดียว
 
-
-
-
+![Importing movie](files/image_jav_importing_movie_page.png)
+_Little Prince adding movie_
