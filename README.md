@@ -171,10 +171,15 @@ Example of adding multiple movie codes at once.
 ![Importing movie](files/image_jav_importing_movie_page.png)
 _Little Prince adding movie_
 
+Example of downloading multiple movie cover.
+
+![Downlaoding cover](files/image_jav_download_movie_cover_page.png)
+_Little Prince downloading movie cover_
 
 
+Example of downloading meatadata of movie.
 
-
+![alt text](files/image_jav_download_movie_metadata_page.png)
 
 
 

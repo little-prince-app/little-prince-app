@@ -174,3 +174,14 @@ _Little Prince jav tools_
 
 ![Importing movie](files/image_jav_importing_movie_page.png)
 _Little Prince adding movie_
+
+ตัวอย่างตัวช่วยการดาวน์โหลดภาพหน้าปก
+
+![Downlaoding cover](files/image_jav_download_movie_cover_page.png)
+_Little Prince downloading movie cover_
+
+
+ตัวอย่างตัวช่วยการดาวน์โหลดข้อมูลของภาพยนตร์ (metadata)
+
+![alt text](files/image_jav_download_movie_metadata_page.png)
+
