@@ -63,6 +63,13 @@ When you click on the actress's picture, it will show you the details page and r
 ![Movie View](files/image_jav_actress_detail_view.png)
 _Little Prince actress detail_
 
+## Sync to database
+
+You need to define the storage location of the data files first in the database menu. If you have video or image files, they need to be stored in the format specified by the structure. Then you can sync the data to the database.
+
+![Jav database](files/image_jav_database_page.png)
+_Database pgae_
+
 ## Folder Structures
 
 Information about the structure of the file storage. You need to specify the path of the folder first. You can do this in the Database menu. For example, N:\LITTLE_PRINCE

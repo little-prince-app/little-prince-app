@@ -65,6 +65,13 @@ _Little Prince actress viewer_
 ![Movie View](files/image_jav_actress_detail_view.png)
 _Little Prince actress detail_
 
+## ซิงค์ไปยังฐานข้อมูล
+
+คุณจำเป็นต้องกำหนดที่จัดเก็บไฟล์ข้อมูลก่อนที่เมนูฐานข้อมูล หากคุณมีไฟล์วิดีโอหรือไฟล์รูปภาพ จำเป็นต้องเก็บในรูปแบบที่กำหนดตามโครงสร้าง จากนั้นคุณสามารถซิงค์ข้อมูลมายังฐานข้อมูลได้
+
+![Jav database](files/image_jav_database_page.png)
+_Database pgae_
+
 
 ## โครงสร้างโฟลเดอร์
 
