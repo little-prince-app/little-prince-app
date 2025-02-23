@@ -101,6 +101,9 @@ LITTLE_PRINCE
             │   │  main.jpg
 ```
 
+![Example](files/image_jav_example_file.png)
+_Example of GVG-343 in JAV/movies/GVG/GVG-343_
+
 ## Metadata of Movie
 
 The data for movies will be stored in a file called meta.json, which will be stored in a separate folder for each movie code.
