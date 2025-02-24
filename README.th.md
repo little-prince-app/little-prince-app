@@ -105,6 +105,7 @@ LITTLE_PRINCE
 ```
 
 ![Example](files/image_jav_example_file.png)
+
 _Example of GVG-343 in JAV/movies/GVG/GVG-343_
 
 ## ข้อมูลภาพยนตร์ JAV
@@ -197,4 +198,4 @@ _Little Prince downloading movie cover_
 
 ## สนับสนุนเรา
 
-[Buy Me a Coffee](https://buymeacoffee.com/little.prince)
+[เลี้ยงกาแฟผู้พัฒนา](https://buymeacoffee.com/little.prince)
