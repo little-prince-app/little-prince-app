@@ -104,6 +104,9 @@ LITTLE_PRINCE
             │   │  main.jpg
 ```
 
+![Example](files/image_jav_example_file.png)
+_Example of GVG-343 in JAV/movies/GVG/GVG-343_
+
 ## ข้อมูลภาพยนตร์ JAV
 
 ข้อมูลของภาพยนตร์จะถูกเก็บไว้ในไฟล์ชื่อ meta.json ซึ่งจะเก็บไว้ในโฟลเดอสำหรับรหัสภาพยนตร์แต่ละเรื่อง
