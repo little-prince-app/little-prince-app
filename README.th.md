@@ -50,7 +50,7 @@ _Little Prince movie_
 
 มุมมองรายละเอียด หากต้องการดูข้อมูลแบบละเอียดจำนวนมาก
 
-![Movie View](files/image_jav_actress_detail_view.png)
+![Movie View](files/image_jav_movie_list_detail_view.png)
 _Little Prince movie_
 
 ## นักแสดง
